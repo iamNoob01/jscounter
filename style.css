@@ -1,0 +1,19 @@
+body{
+     background-image: linear-gradient(to top, #37ecba 100%, #72afd3 100%);
+     /* background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%); */
+}
+.col-md-6 {
+     background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+     border: 5px solid black;
+     border-radius: 5px;
+     margin-top: 150px !important;
+     padding: 70px !important;
+}
+button{
+     margin: 10px !important;
+     border: 1px solid black !important;
+}
+h1{
+     font-weight: bold !important;
+     margin: 20px;
+}
